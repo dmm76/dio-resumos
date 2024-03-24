@@ -6,6 +6,7 @@ Cria um repositorio para Organizar Anotacoes
 
 git status - comando para ver os status da arvore de trabalho ou area de preparação
 EXEMPLO: criar um arquivo README.md
+
 //começo do editar
 # DIO RESUMOS
 
